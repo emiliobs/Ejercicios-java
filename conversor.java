@@ -5,5 +5,5 @@
         double F = 1;//cantidad ingresada caso b
         
        
-        System.out.println(" coonversion de Celsius a Fihrenheit : "+(C * fahrenheit));
-        System.out.println(" coonversion de  Fihrenheit a Celsius : "+(F * Celsius));
+        System.out.println(" conversion de Celsius a Fihrenheit : "+(C * fahrenheit));
+        System.out.println(" conversion de  Fihrenheit a Celsius : "+(F * Celsius));
